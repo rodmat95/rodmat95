@@ -1,86 +1,175 @@
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rodmat95&label=Profile%20Views&color=1&icon=5&pretty=true"
+        alt="visit count">
+</a>
 <div id="header" align="center">
-  <h1 align="center">Hola 👋, Soy Rodmat95</h1>
-  <h3 align="center">Un desarrollador frontend que crea sitios web y aplicaciones con HTML, CSS y JavaScript. Me gusta diseñar interfaces de usuario que sean atractivas, funcionales y accesibles. Me interesa aprender sobre las últimas tendencias y herramientas del desarrollo web. Además de la programación, disfruto del mundo del hardware, los deportes de riesgo y los videojuegos.</h3>
+    <h1 align="center">Hola 👋, Soy Rodmat95</h1>
+    <h3 align="center">Un desarrollador frontend que crea sitios web y aplicaciones con HTML, CSS y JavaScript. Me gusta
+        diseñar interfaces de usuario que sean atractivas, funcionales y accesibles. Me interesa aprender sobre las
+        últimas tendencias y herramientas del desarrollo web. Además de la programación, disfruto del mundo del
+        hardware, los deportes de riesgo y los videojuegos.</h3>
 </div>
 
 <div id="about" align="center">
-  <h1 align="left">💫 Acerca de mí:</h1>
-  <h4 align="center">🚀 Me gusta aprender cosas nuevas y mejorar mis habilidades.<br>🎨 Me gusta usar HTML, CSS y JavaScript para crear páginas web interactivas y atractivas.<br>🎯 Siempre estoy buscando nuevos recursos y herramientas que me ayuden a mejor mis habilidades.</h4>
+    <h1 align="left">💫 Acerca de mí:</h1>
+    <h4 align="center">🚀 Me gusta aprender cosas nuevas y mejorar mis habilidades.<br>🎨 Me gusta usar HTML, CSS y
+        JavaScript para crear páginas web interactivas y atractivas.<br>🎯 Siempre estoy buscando nuevos recursos y
+        herramientas que me ayuden a mejor mis habilidades.</h4>
 </div>
 
 <div id="socials" align="center">
-  <h1 align="left">🌐 Sociales:</h1>
-  <a href="https://instagram.com/rodmat95">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://twitter.com/chrodrigoalonso">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigochavarry">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rodmat0905@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://discord.gg/mrJMa99ubu">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord">
-  </a>
+    <h1 align="left">🌐 Sociales:</h1>
+    <a href="https://instagram.com/rodmat95">
+        <img src="https://img.shields.io/badge/Instagram-black.svg?style=flat&logo=Instagram"
+            alt="Instagram" height="25px">
+    </a>
+    <a href="https://twitter.com/chrodrigoalonso">
+        <img src="https://img.shields.io/badge/Twitter-black.svg?style=flat&logo=Twitter"
+            alt="Twitter" height="25px">
+    </a>
+    <a href="https://www.linkedin.com/in/rodrigochavarry">
+        <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=%230077B5"
+            alt="LinkedIn" height="25px">
+    </a>
+    <a href="mailto:rodmat0905@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-black.svg?style=flat&logo=gmail"
+            alt="Gmail" height="25px">
+    </a>
+    <a href="https://discord.gg/mrJMa99ubu">
+        <img src="https://img.shields.io/badge/Discord-black.svg?style=flat&logo=discord"
+            alt="Discord" height="25px">
+    </a>
 </div>
 
 <div id="Technologies" align="center">
-  <h1 align="left">👨‍💻 Tecnologías Utilizadas:</h1>
-  <table>
-    <tr align="center">
-      <td>💻 Tecnologías Web</td>
-      <td>🗄️ Bases de Datos Relacionales</td>
-      <td>💬 Lenguajes Orientados a Objetos</td>
-    </tr>
-    <tr align="center">
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML">
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS">
-        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-        <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-%23D9534F.svg?style=flat&logo=java&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/C%23-%239100D7.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-      </td>
-    </tr>
-    <tr align="center">
-      <td>📚 Bibliotecas Front-End</td>
-      <td>☁️Bases de Datos en Nube</td>
-      <td>🖥️ Tecnologías Backend</td>
-    </tr>
-    <tr align="center">
-      <td>
-        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Azure%20SQL%20Database-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure SQL Database">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
-      </td>
-    </tr>
-  </table>
+    <h1 align="left">👨‍💻 Tecnologías Utilizadas:</h1>
+    <table>
+        <tr align="center">
+            <td>💻 Tecnologías Web</td>
+            <td>📚 JS Frameworks/Bibliotecas</td>
+            <td>🖥️ Tecnologías Backend</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <img src="https://img.shields.io/badge/HTML5-black.svg?style=flat&logo=html5"
+                    alt="HTML">
+                <img src="https://img.shields.io/badge/CSS3-black.svg?style=flat&logo=css3&logoColor=%231572B6"
+                    alt="CSS">
+                <img src="https://img.shields.io/badge/JavaScript-black.svg?style=flat&logo=javascript"
+                    alt="JavaScript">
+                <img src="https://img.shields.io/badge/PHP-black.svg?style=flat&logo=php"
+                    alt="PHP">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/jQuery-black.svg?style=flat&logo=jquery&logoColor=%230769AD"
+                    alt="jQuery">
+                <img src="https://img.shields.io/badge/React-black.svg?style=flat&logo=react"
+                    alt="React">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js"
+                    alt="NodeJS">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr align="center">
+            <td>🗄️ Bases de Datos Relacionales</td>
+            <td>☁️ Bases de Datos en Cloud</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <img src="https://img.shields.io/badge/SQL%20Server-black.svg?style=flat&logo=microsoft-sql-server&logoColor=%23CC2927"
+                    alt="SQL Server">
+                <img src="https://img.shields.io/badge/MySQL-black.svg?style=flat&logo=mysql"
+                    alt="MySQL">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Azure%20SQL%20Database-black?style=flat&logo=microsoft-azure&logoColor=0089D6"
+                    alt="Azure SQL Database">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr align="center">
+            <td>💬 Lenguajes Orientados a Objetos</td>
+            <td>📝 Entornos de Desarrollo</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <img src="https://img.shields.io/badge/Java-black.svg?style=flat&logo=java&logoColor=%23D9534F" alt="Java">
+                <img src="https://img.shields.io/badge/C%2B%2B-black.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C"
+                    alt="C++">
+                <img src="https://img.shields.io/badge/C%23-black.svg?style=flat&logo=c-sharp&logoColor=%239100D7"alt="C#">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/NetBeans-black.svg?style=flat&logo=netbeans&logoColor=%23D9534F"
+                    alt="NetBeans">
+                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=flat&logo=visual-studio-code&logoColor=%2300599C"
+                    alt="Visual Studio Code">
+                <img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio-black.svg?style=flat&logo=visual-studio&logoColor=%239100D7"
+                    alt="Microsoft Visual Studio">
+            </td>
+        </tr>
+    </table>
+<!--
+    <table>
+        <tr align="center">
+            <td>🖥️ Tecnologías Backend</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <img src="https://img.shields.io/badge/node.js-black?style=flat&logo=node.js"
+                    alt="NodeJS">
+            </td>
+        </tr>
+    </table>
+-->
+    <table>
+        <tr align="center">
+            <td>📚 Hosting Web</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <img src="https://img.shields.io/badge/-Hostinger-black?style=flat&logo=hostinger"
+                    alt="Hostinger">
+                <img src="https://img.shields.io/badge/-GitHub%20Pages-black?style=flat&logo=github"
+                    alt="GitHub Pages">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr align="center">
+            <td>📚 Control de versiones</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"
+                    alt="Git">
+                <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"
+                    alt="Github">
+            </td>
+        </tr>
+    </table>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skygitIG&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=skygitIG&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skygitIG&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+    <h1 align="left">📊 Estadísticas de GitHub:</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=rodmat95&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+        alt="GitHub Stats">
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodmat95&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+        alt="Top Languages">
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skygitIG&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+    <h1 align="left">🔝 Rachas en GitHub:</h1>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodmat95&theme=dark&no-frame=true&hide_border=true"
+        alt="GitHub Streak Stats">
+</div>
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=rodmat95&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a>
+<div align="center">
+    <h1 align="left">🏆 Trofeos de GitHub:</h1>
+    <img src="https://github-profile-trophy.vercel.app/?username=rodmat95&theme=onedark&no-frame=true&no-bg=true&margin-w=4"
+        alt="GitHub Trophies">
+</div>
