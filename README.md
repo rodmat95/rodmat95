@@ -1,6 +1,17 @@
-<h1 alight="center"> Hi 👋, I'm Rodmat95 </h1>
-<h3 alight="center">  </h3>
+<div id="header" align="center">
+<h1 align="center"> Hi 👋, I'm Rodmat95 </h1>
+<h3 align="center">  </h3>
+</div>
 
+<div id="badges" align="center">
+<a href="" targer="_blank">
+<img scr="" alt=" Badge" />
+</a>
+
+<a href="" targer="_blank">
+<img scr="" alt=" Badge" />
+</a>
+</div>
 
 
 <!--
