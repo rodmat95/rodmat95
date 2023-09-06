@@ -13,11 +13,11 @@
   <a href="https://instagram.com/rodmat95">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://facebook.com/skygit">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  <a href="https://twitter.com/chrodrigoalonso">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://youtube.com/@skygit">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+  <a href="https://www.linkedin.com/in/rodrigochavarry">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
