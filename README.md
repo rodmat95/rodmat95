@@ -166,7 +166,7 @@
                     alt="Canva">
             </td>
             <td>
-                <img src="https://img.shields.io/badge/GIMP-black?style=flat&logo=gimp"
+                <img src="https://img.shields.io/badge/GIMP-black?style=flat&logo=gimp&logoColor=%23C7CFD6"
                     alt="GIMP">
                 <img src="https://img.shields.io/badge/Photoshop-black?style=flat&logo=adobe-photoshop"
                     alt="Photoshop">
