@@ -21,23 +21,23 @@
     <h1 align="left">🌐 Sociales:</h1>
     <a href="https://instagram.com/rodmat95">
         <img src="https://img.shields.io/badge/Instagram-black.svg?style=flat&logo=Instagram"
-            alt="Instagram" height="25px">
+            alt="Instagram" width="100" height="25">
     </a>
     <a href="https://twitter.com/chrodrigoalonso">
         <img src="https://img.shields.io/badge/Twitter-black.svg?style=flat&logo=Twitter"
-            alt="Twitter" height="25px">
+            alt="Twitter">
     </a>
     <a href="https://www.linkedin.com/in/rodrigochavarry">
         <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=%230077B5"
-            alt="LinkedIn" height="25px">
+            alt="LinkedIn">
     </a>
     <a href="mailto:rodmat0905@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-black.svg?style=flat&logo=gmail"
-            alt="Gmail" height="25px">
+            alt="Gmail">
     </a>
     <a href="https://discord.gg/mrJMa99ubu">
         <img src="https://img.shields.io/badge/Discord-black.svg?style=flat&logo=discord"
-            alt="Discord" height="25px">
+            alt="Discord">
     </a>
 </div>
 
@@ -97,13 +97,15 @@
         </tr>
         <tr align="center">
             <td>
-                <img src="https://img.shields.io/badge/Java-black.svg?style=flat&logo=java&logoColor=%23D9534F" alt="Java">
+                <img src="https://img.shields.io/badge/Java-black.svg?style=flat&logo=java&logoColor=%23D9534F"
+                    alt="Java">
                 <img src="https://img.shields.io/badge/C%2B%2B-black.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C"
                     alt="C++">
-                <img src="https://img.shields.io/badge/C%23-black.svg?style=flat&logo=c-sharp&logoColor=%239100D7"alt="C#">
+                <img src="https://img.shields.io/badge/C%23-black.svg?style=flat&logo=c-sharp&logoColor=%239100D7"
+                    alt="C#">
             </td>
             <td>
-                <img src="https://img.shields.io/badge/NetBeans-black.svg?style=flat&logo=netbeans&logoColor=%23D9534F"
+                <img src="https://img.shields.io/badge/NetBeans-black.svg?style=flat&logo=apache netbeans&logoColor=%23D9534F"
                     alt="NetBeans">
                 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=flat&logo=visual-studio-code&logoColor=%2300599C"
                     alt="Visual Studio Code">
@@ -131,9 +133,9 @@
         </tr>
         <tr align="center">
             <td>
-                <img src="https://img.shields.io/badge/-Hostinger-black?style=flat&logo=hostinger"
+                <img src="https://img.shields.io/badge/Hostinger-black?style=flat&logo=hostinger"
                     alt="Hostinger">
-                <img src="https://img.shields.io/badge/-GitHub%20Pages-black?style=flat&logo=github"
+                <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=flat&logo=github"
                     alt="GitHub Pages">
             </td>
         </tr>
@@ -144,10 +146,30 @@
         </tr>
         <tr align="center">
             <td>
-                <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"
+                <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"
                     alt="Git">
-                <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"
                     alt="Github">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr align="center">
+            <td>🖼️ Herramientas visuales</td>
+            <td>🎨 Diseño</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"
+                    alt="Figma">
+                <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva"
+                    alt="Canva">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/GIMP-black?style=flat&logo=gimp"
+                    alt="GIMP">
+                <img src="https://img.shields.io/badge/Photoshop-black?style=flat&logo=adobe-photoshop"
+                    alt="Photoshop">
             </td>
         </tr>
     </table>
@@ -170,6 +192,6 @@
 
 <div align="center">
     <h1 align="left">🏆 Trofeos de GitHub:</h1>
-    <img src="https://github-profile-trophy.vercel.app/?username=rodmat95&theme=onedark&no-frame=true&no-bg=true&margin-w=4"
+    <img src="https://github-profile-trophy.vercel.app/?username=rodmat95&theme=default&no-frame=true&no-bg=true&margin-w=4"
         alt="GitHub Trophies">
 </div>
