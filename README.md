@@ -160,9 +160,9 @@
         </tr>
         <tr align="center">
             <td>
-                <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"
+                <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma"
                     alt="Figma">
-                <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva"
+                <img src="https://img.shields.io/badge/Canva-black?style=flat&logo=canva"
                     alt="Canva">
             </td>
             <td>
