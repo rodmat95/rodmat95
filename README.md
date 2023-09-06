@@ -11,13 +11,19 @@
 <div id="socials" align="center">
   <h1 align="left">🌐 Sociales:</h1>
   <a href="https://instagram.com/rodmat95">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://twitter.com/chrodrigoalonso">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/rodrigochavarry">
-    <img src="https://img.shields.io/badge/LinkedIn-%23FF0000.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rodmat0905@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://discord.gg/mrJMa99ubu">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 
@@ -26,7 +32,7 @@
   <table>
     <tr align="center">
       <td>💻 Tecnologías Web</td>
-      <td>🛢 Bases de Datos Relacionales</td>
+      <td>🗄️ Bases de Datos Relacionales</td>
       <td>💬 Lenguajes Orientados a Objetos</td>
     </tr>
     <tr align="center">
