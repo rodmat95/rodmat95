@@ -21,23 +21,23 @@
     <h1 align="left">🌐 Sociales:</h1>
     <a href="https://instagram.com/rodmat95">
         <img src="https://img.shields.io/badge/Instagram-black.svg?style=flat&logo=Instagram"
-            alt="Instagram" width="100" height="25">
+            alt="Instagram" height="25">
     </a>
     <a href="https://twitter.com/chrodrigoalonso">
         <img src="https://img.shields.io/badge/Twitter-black.svg?style=flat&logo=Twitter"
-            alt="Twitter">
+            alt="Twitter" height="25">
     </a>
     <a href="https://www.linkedin.com/in/rodrigochavarry">
         <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=%230077B5"
-            alt="LinkedIn">
+            alt="LinkedIn" height="25">
     </a>
     <a href="mailto:rodmat0905@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-black.svg?style=flat&logo=gmail"
-            alt="Gmail">
+            alt="Gmail" height="25">
     </a>
     <a href="https://discord.gg/mrJMa99ubu">
         <img src="https://img.shields.io/badge/Discord-black.svg?style=flat&logo=discord"
-            alt="Discord">
+            alt="Discord" height="25">
     </a>
 </div>
 
