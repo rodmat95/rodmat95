@@ -45,7 +45,7 @@
     <h1 align="left">👨‍💻 Tecnologías Utilizadas:</h1>
     <table>
         <tr align="center">
-            <td>💻 Tecnologías Web</td>
+            <td>💻 Tecnologías Frontend</td>
             <td>📚 JS Frameworks/Bibliotecas</td>
             <td>🖥️ Tecnologías Backend</td>
         </tr>
@@ -57,8 +57,6 @@
                     alt="CSS">
                 <img src="https://img.shields.io/badge/JavaScript-black.svg?style=flat&logo=javascript"
                     alt="JavaScript">
-                <img src="https://img.shields.io/badge/PHP-black.svg?style=flat&logo=php"
-                    alt="PHP">
             </td>
             <td>
                 <img src="https://img.shields.io/badge/jQuery-black.svg?style=flat&logo=jquery&logoColor=%230769AD"
@@ -67,6 +65,8 @@
                     alt="React">
             </td>
             <td>
+                <img src="https://img.shields.io/badge/PHP-black.svg?style=flat&logo=php"
+                    alt="PHP">
                 <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js"
                     alt="NodeJS">
             </td>
