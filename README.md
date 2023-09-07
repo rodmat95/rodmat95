@@ -137,6 +137,8 @@
                     alt="Hostinger">
                 <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=flat&logo=github"
                     alt="GitHub Pages">
+                 <img src="https://img.shields.io/badge/Azure%20App%20Service-black?style=flat&logo=Microsoft%20Azure&logoColor=0089D6"
+                    alt="Azure App Service">
             </td>
         </tr>
     </table>
