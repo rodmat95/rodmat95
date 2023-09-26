@@ -63,6 +63,8 @@
                     alt="jQuery">
                 <img src="https://img.shields.io/badge/React-black.svg?style=flat&logo=react"
                     alt="React">
+                <img src="https://img.shields.io/badge/.NET-black.svg?style=flat&logo=.net&logoColor=%23512BD4"
+                    alt=".NET">
             </td>
             <td>
                 <img src="https://img.shields.io/badge/PHP-black.svg?style=flat&logo=php"
