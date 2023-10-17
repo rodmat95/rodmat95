@@ -43,7 +43,7 @@
     </a>
 </div>
 
-<div id="Technologies" style="text-align: center">
+<div id="Technologies" align="center">
     <h1 align="left">👨🏻‍💻 Tecnologías Utilizadas:</h1>
     <table border="1">
         <thead align="center">
