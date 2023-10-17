@@ -43,7 +43,7 @@
     </a>
 </div>
 
-<div id="Technologies" align="center">
+<div id="Technologies" style="text-align: center">
     <h1 align="left">👨🏻‍💻 Tecnologías Utilizadas:</h1>
     <table border="1">
         <thead align="center">
@@ -185,16 +185,14 @@
             </td>
         </tr>
     </table>
-    <table>
+    <table border="1">
         <thead align="center">
-            <th colspan="2">🗃️ Control de versiones</th>
+            <th>🗃️ Control de versiones</th>
         </thead>
         <tbody align="center">
             <td>
                 <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"
                     alt="Git">
-            </td>
-            <td>
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"
                     alt="Github">
             </td>
