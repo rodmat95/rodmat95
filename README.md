@@ -45,12 +45,12 @@
 
 <div id="Technologies" align="center">
     <h1 align="left">👨🏻‍💻 Tecnologías Utilizadas:</h1>
-    <table>
-        <tr align="center">
+    <table border="1">
+        <thead align="center">
             <th>💻 Desarrollo Frontend</th>
             <th>📚 Bibliotecas & Frameworks</th>
-        </tr>
-        <tr align="center">
+        </thead>
+        <tbody align="center">
             <td>
                 <img src="https://img.shields.io/badge/HTML-black.svg?style=flat&logo=html5"
                     alt="HTML">
@@ -79,12 +79,12 @@
                     alt="PopperJS">
                 -->
             </td>
-        </tr>
-        <tr align="center">
+        </tbody>
+        <thead align="center">
             <th>🗂️ Webs Asíncronas</th>
             <th>🧰 Plugins</th>
-        </tr>
-        <tr align="center">
+        </thead>
+        <tbody align="center">
             <td>
                 <img src="https://img.shields.io/badge/Ajax-black.svg?style=flat&logo=ajax" alt="Ajax">
                 <img src="https://img.shields.io/badge/JSON-black.svg?style=flat&logo=json&logoColor=e1af2f" alt="JSON">
@@ -95,14 +95,14 @@
                 <img src="https://img.shields.io/badge/SweetAlert2-black.svg?style=flat&logo=sweetalert2" 
                     alt="SweetAlert2">
             </td>
-        </tr>
+        </tbody>
     </table>
-    <table>
-        <tr align="center">
+    <table border="1">
+        <thead align="center">
             <th>🖥️ Desarrollo Backend</th>
             <th>📚 Bibliotecas & Frameworks</th>
-        </tr>
-        <tr align="center">
+        </thead>
+        <tbody align="center">
             <td>
                 <img src="https://img.shields.io/badge/PHP-black.svg?style=flat&logo=php" 
                     alt="PHP">
@@ -115,11 +115,11 @@
                 <img src="https://img.shields.io/badge/Spring-black.svg?style=flat&logo=spring" alt="Spring">
                 -->
             </td>
-        </tr>
-        <tr align="center">
+        </tbody>
+        <thead align="center">
             <th colspan="2">⌨️ Desarrollo de Aplicaciones</th>
-        </tr>
-        <tr align="center">  
+        </thead>
+        <tbody align="center">
             <td colspan="2">
                 <img src="https://img.shields.io/badge/Java-black.svg?style=flat&logo=java&logoColor=%23D9534F" alt="Java">
                 <img src="https://img.shields.io/badge/C%2B%2B-black.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C" alt="C++">
@@ -129,8 +129,9 @@
                 <img src="https://img.shields.io/badge/Ruby-black.svg?style=flat&logo=ruby&logoColor=ed1d29" alt="Ruby">
                 -->
             </td>
+        </tbody>
     </table>
-    <table>
+    <table border="1">
         <thead align="center">
             <th>🗄️ Bases de Datos Relacionales</th>
             <th>☁️ Bases de Datos en Cloud</th>
@@ -148,7 +149,7 @@
             </td>
         </tbody>
     </table>
-    <table>
+    <table border="1">
         <thead align="center">
             <th>📝 Entornos de Desarrollo</th>
         </thead>
@@ -167,7 +168,7 @@
             </td>
         </tbody>
     </table>
-    <table>
+    <table border="1">
         <thead align="center">
             <th>🌎 Hosting Web</td>
         </thead>
@@ -184,12 +185,12 @@
             </td>
         </tr>
     </table>
-    <table>
+    <table border="1">
         <thead align="center">
-            <th>🗃️ Control de versiones</th>
+            <th colspan="2">🗃️ Control de versiones</th>
         </thead>
         <tbody align="center">
-            <td>
+            <td colspan="2">
                 <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"
                     alt="Git">
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"
@@ -197,7 +198,7 @@
             </td>
         </tbody>
     </table>
-    <table>
+    <table border="1">
         <thead align="center">
             <th>🖼️ Herramientas visuales</th>
             <th>🎨 Diseño<</th>
