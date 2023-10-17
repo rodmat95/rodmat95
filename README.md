@@ -45,32 +45,72 @@
     <h1 align="left">👨‍💻 Tecnologías Utilizadas:</h1>
     <table>
         <tr align="center">
-            <td>💻 Tecnologías Frontend</td>
-            <td>📚 JS Frameworks/Bibliotecas</td>
-            <td>🖥️ Tecnologías Backend</td>
+            <td>💻 Desarrollo Frontend</td>
+            <td>📚 Bibliotecas/Frameworks</td>
+            <td>🧰 Plugins</td>
         </tr>
         <tr align="center">
             <td>
-                <img src="https://img.shields.io/badge/HTML5-black.svg?style=flat&logo=html5"
+                <img src="https://img.shields.io/badge/HTML-black.svg?style=flat&logo=html5"
                     alt="HTML">
-                <img src="https://img.shields.io/badge/CSS3-black.svg?style=flat&logo=css3&logoColor=%231572B6"
+                <img src="https://img.shields.io/badge/CSS-black.svg?style=flat&logo=css3&logoColor=%231572B6"
                     alt="CSS">
                 <img src="https://img.shields.io/badge/JavaScript-black.svg?style=flat&logo=javascript"
                     alt="JavaScript">
+                <!--
+                <img src="https://img.shields.io/badge/TypeScript-black.svg?style=flat&logo=typescript" 
+                    alt="TypeScript">
+                -->
             </td>
             <td>
+                <img src="https://img.shields.io/badge/Bootstrap-black.svg?style=flat&logo=bootstrap"
+                    alt="Bootstrap">
+                <!--
                 <img src="https://img.shields.io/badge/jQuery-black.svg?style=flat&logo=jquery&logoColor=%230769AD"
                     alt="jQuery">
                 <img src="https://img.shields.io/badge/React-black.svg?style=flat&logo=react"
                     alt="React">
-                <img src="https://img.shields.io/badge/.NET-black.svg?style=flat&logo=.net&logoColor=%23512BD4"
-                    alt=".NET">
+                <img src="https://img.shields.io/badge/PopperJS-black.svg?style=flat&logo=popper.js" 
+                    alt="PopperJS">
+                -->
             </td>
             <td>
-                <img src="https://img.shields.io/badge/PHP-black.svg?style=flat&logo=php"
+                <img src="https://img.shields.io/badge/DataTables-black.svg?style=flat&logo=datatables" 
+                    alt="DataTables">
+                <img src="https://img.shields.io/badge/SweetAlert2-black.svg?style=flat&logo=sweetalert2" 
+                    alt="SweetAlert2">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr align="center">
+            <td>🖥️ Desarrollo Backend</td>
+            <td>📚 Bibliotecas/Frameworks</td>
+            <td>👨🏻‍💻 Desarrollo de Aplicaciones</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <img src="https://img.shields.io/badge/PHP-black.svg?style=flat&logo=php" 
                     alt="PHP">
-                <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js"
-                    alt="NodeJS">
+            </td>
+            <td>
+                <!--
+                <img src="https://img.shields.io/badge/NodeJS-black.svg?style=flat&logo=node.js" alt="NodeJS">
+                -->
+                <img src="https://img.shields.io/badge/Laravel-black.svg?style=flat&logo=laravel" alt="Laravel">
+                <img src="https://img.shields.io/badge/.NET-black.svg?style=flat&logo=.net&logoColor=%23512BD4" alt=".NET">
+                <!--
+                <img src="https://img.shields.io/badge/Spring-black.svg?style=flat&logo=spring" alt="Spring">
+                -->
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Java-black.svg?style=flat&logo=java&logoColor=%23D9534F" alt="Java">
+                <img src="https://img.shields.io/badge/C%2B%2B-black.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C" alt="C++">
+                <img src="https://img.shields.io/badge/C%23-black.svg?style=flat&logo=c-sharp&logoColor=%239100D7" alt="C#">
+                <img src="https://img.shields.io/badge/Python-black.svg?style=flat&logo=python" alt="Python">
+                <!--
+                <img src="https://img.shields.io/badge/Ruby-black.svg?style=flat&logo=ruby&logoColor=ed1d29" alt="Ruby">
+                -->
             </td>
         </tr>
     </table>
@@ -94,18 +134,9 @@
     </table>
     <table>
         <tr align="center">
-            <td>💬 Lenguajes Orientados a Objetos</td>
             <td>📝 Entornos de Desarrollo</td>
         </tr>
         <tr align="center">
-            <td>
-                <img src="https://img.shields.io/badge/Java-black.svg?style=flat&logo=java&logoColor=%23D9534F"
-                    alt="Java">
-                <img src="https://img.shields.io/badge/C%2B%2B-black.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C"
-                    alt="C++">
-                <img src="https://img.shields.io/badge/C%23-black.svg?style=flat&logo=c-sharp&logoColor=%239100D7"
-                    alt="C#">
-            </td>
             <td>
                 <img src="https://img.shields.io/badge/NetBeans-black.svg?style=flat&logo=apache netbeans&logoColor=%23D9534F"
                     alt="NetBeans">
@@ -113,25 +144,16 @@
                     alt="Visual Studio Code">
                 <img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio-black.svg?style=flat&logo=visual-studio&logoColor=%239100D7"
                     alt="Microsoft Visual Studio">
+                <img src="https://img.shields.io/badge/PyCharm-black.svg?style=flat&logo=pycharm&logoColor=fcf84a"
+                    alt="PyCharm">
+                <img src="https://img.shields.io/badge/PhpStorm-black.svg?style=flat&logo=phpstorm&logoColor=6b57ff" 
+                    alt="PhpStorm">
             </td>
         </tr>
     </table>
-<!--
     <table>
         <tr align="center">
-            <td>🖥️ Tecnologías Backend</td>
-        </tr>
-        <tr align="center">
-            <td>
-                <img src="https://img.shields.io/badge/node.js-black?style=flat&logo=node.js"
-                    alt="NodeJS">
-            </td>
-        </tr>
-    </table>
--->
-    <table>
-        <tr align="center">
-            <td>📚 Hosting Web</td>
+            <td>🌐 Hosting Web</td>
         </tr>
         <tr align="center">
             <td>
@@ -146,7 +168,7 @@
     </table>
     <table>
         <tr align="center">
-            <td>📚 Control de versiones</td>
+            <td>🗃️ Control de versiones</td>
         </tr>
         <tr align="center">
             <td>
