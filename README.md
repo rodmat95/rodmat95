@@ -14,7 +14,7 @@
     <h1 align="left">💫 Acerca de mí:</h1>
     <h4 align="center">
         🚀 Me gusta aprender cosas nuevas y mejorar mis habilidades.<br>
-        🎨 Me gusta crear páginas web interactivas y atractivas.<br>
+        👨🏻‍🎨 Me gusta crear páginas web interactivas y atractivas.<br>
         🎯 Siempre estoy buscando nuevos recursos y herramientas que me ayuden a mejor mis habilidades.
     </h4>
 </div>
@@ -44,11 +44,12 @@
 </div>
 
 <div id="Technologies" align="center">
-    <h1 align="left">👨‍💻 Tecnologías Utilizadas:</h1>
+    <h1 align="left">👨🏻‍💻 Tecnologías Utilizadas:</h1>
     <table>
         <tr align="center">
             <td>💻 Desarrollo Frontend</td>
             <td>📚 Bibliotecas/Frameworks</td>
+            <td>🗂️ Webs Asíncronas</td>
             <td>🧰 Plugins</td>
         </tr>
         <tr align="center">
@@ -57,6 +58,10 @@
                     alt="HTML">
                 <img src="https://img.shields.io/badge/CSS-black.svg?style=flat&logo=css3&logoColor=%231572B6"
                     alt="CSS">
+                <!--
+                <img src="https://img.shields.io/badge/SCSS-black.svg?style=flat&logo=sass"
+                    alt="SCSS">
+                -->
                 <img src="https://img.shields.io/badge/JavaScript-black.svg?style=flat&logo=javascript"
                     alt="JavaScript">
                 <!--
@@ -77,6 +82,10 @@
                 -->
             </td>
             <td>
+                <img src="https://img.shields.io/badge/Ajax-black.svg?style=flat&logo=ajax" alt="Ajax">
+                <img src="https://img.shields.io/badge/JSON-black.svg?style=flat&logo=json&logoColor=e1af2f" alt="JSON">
+            </td>
+            <td>
                 <img src="https://img.shields.io/badge/DataTables-black.svg?style=flat&logo=datatables" 
                     alt="DataTables">
                 <img src="https://img.shields.io/badge/SweetAlert2-black.svg?style=flat&logo=sweetalert2" 
@@ -86,9 +95,15 @@
     </table>
     <table>
         <tr align="center">
+        </tr>
+        <tr align="center">
+        </tr>
+    </table>
+    <table>
+        <tr align="center">
             <td>🖥️ Desarrollo Backend</td>
             <td>📚 Bibliotecas/Frameworks</td>
-            <td>👨🏻‍💻 Desarrollo de Aplicaciones</td>
+            <td>⌨️ Desarrollo de Aplicaciones</td>
         </tr>
         <tr align="center">
             <td>
@@ -96,15 +111,13 @@
                     alt="PHP">
             </td>
             <td>
-                <!--
                 <img src="https://img.shields.io/badge/NodeJS-black.svg?style=flat&logo=node.js" alt="NodeJS">
-                -->
                 <img src="https://img.shields.io/badge/Laravel-black.svg?style=flat&logo=laravel" alt="Laravel">
                 <img src="https://img.shields.io/badge/.NET-black.svg?style=flat&logo=.net&logoColor=%23512BD4" alt=".NET">
                 <!--
                 <img src="https://img.shields.io/badge/Spring-black.svg?style=flat&logo=spring" alt="Spring">
                 -->
-            </td>
+            </td>    
             <td>
                 <img src="https://img.shields.io/badge/Java-black.svg?style=flat&logo=java&logoColor=%23D9534F" alt="Java">
                 <img src="https://img.shields.io/badge/C%2B%2B-black.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C" alt="C++">
@@ -129,7 +142,7 @@
                     alt="MySQL">
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Azure%20SQL%20Database-black?style=flat&logo=microsoft-azure&logoColor=0089D6"
+                <img src="https://img.shields.io/badge/Azure%20SQL%20Database-black?style=flat&logo=microsoft%20azure&logoColor=0089D6"
                     alt="Azure SQL Database">
             </td>
         </tr>
@@ -155,16 +168,18 @@
     </table>
     <table>
         <tr align="center">
-            <td>🌐 Hosting Web</td>
+            <td>🌎 Hosting Web</td>
         </tr>
         <tr align="center">
             <td>
-                <img src="https://img.shields.io/badge/Hostinger-black?style=flat&logo=hostinger"
-                    alt="Hostinger">
+                <img src="https://img.shields.io/badge/AwardSpace-black?style=flat&logo=awardspace&logoColor=0089D6"
+                    alt="AwardSpace">
                 <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=flat&logo=github"
                     alt="GitHub Pages">
-                 <img src="https://img.shields.io/badge/Azure%20App%20Service-black?style=flat&logo=Microsoft%20Azure&logoColor=0089D6"
+                 <img src="https://img.shields.io/badge/Azure%20App%20Service-black?style=flat&logo=microsoft%20azure&logoColor=0089D6"
                     alt="Azure App Service">
+                <img src="https://img.shields.io/badge/Hostinger-black?style=flat&logo=hostinger"
+                    alt="Hostinger">
             </td>
         </tr>
     </table>
