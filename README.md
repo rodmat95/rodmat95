@@ -190,9 +190,11 @@
             <th colspan="2">🗃️ Control de versiones</th>
         </thead>
         <tbody align="center">
-            <td colspan="2">
+            <td>
                 <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"
                     alt="Git">
+            </td>
+            <td>
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"
                     alt="Github">
             </td>
