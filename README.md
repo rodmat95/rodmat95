@@ -185,7 +185,7 @@
             </td>
         </tr>
     </table>
-    <table border="1">
+    <table>
         <thead align="center">
             <th colspan="2">🗃️ Control de versiones</th>
         </thead>
