@@ -4,7 +4,7 @@
 </a>
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Rodmat95</h1>
-    <h3 align="center">Un desarrollador frontend que crea sitios web y aplicaciones con HTML, CSS y JavaScript. Me gusta
+    <h3 align="center">Un desarrollador frontend que crea sitios web y aplicaciones. Me gusta
         diseñar interfaces de usuario que sean atractivas, funcionales y accesibles. Me interesa aprender sobre las
         últimas tendencias y herramientas del desarrollo web. Además de la programación, disfruto del mundo del
         hardware, los deportes de riesgo y los videojuegos.</h3>
@@ -12,9 +12,11 @@
 
 <div id="about" align="center">
     <h1 align="left">💫 Acerca de mí:</h1>
-    <h4 align="center">🚀 Me gusta aprender cosas nuevas y mejorar mis habilidades.<br>🎨 Me gusta usar HTML, CSS y
-        JavaScript para crear páginas web interactivas y atractivas.<br>🎯 Siempre estoy buscando nuevos recursos y
-        herramientas que me ayuden a mejor mis habilidades.</h4>
+    <h4 align="center">
+        🚀 Me gusta aprender cosas nuevas y mejorar mis habilidades.<br>
+        🎨 Me gusta crear páginas web interactivas y atractivas.<br>
+        🎯 Siempre estoy buscando nuevos recursos y herramientas que me ayuden a mejor mis habilidades.
+    </h4>
 </div>
 
 <div id="socials" align="center">
