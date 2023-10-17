@@ -187,7 +187,8 @@
     </table>
     <table border="1">
         <thead align="center">
-            <th>🗃️ Control de versiones</th>
+            <th>🗃️ Control de Versiones</th>
+            <th>🛠️ Herramientas de Revisión</th>
         </thead>
         <tbody align="center">
             <td>
@@ -196,12 +197,18 @@
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"
                     alt="Github">
             </td>
+            <td>
+                <img src="https://img.shields.io/badge/Phabricator-black?style=flat&logo=phabricator&logoColor=white"
+                    alt="Phabricator">
+                <img src="https://img.shields.io/badge/Gerrit-black?style=flat&logo=gerrit&logoColor=blue"
+                    alt="Gerrit">
+            </td>
         </tbody>
     </table>
     <table border="1">
         <thead align="center">
-            <th>🖼️ Herramientas visuales</th>
-            <th>🎨 Diseño<</th>
+            <th>🖼️ Herramientas Visuales</th>
+            <th>🎨 Diseño</th>
         </thead>
         <tbody align="center">
             <td>
