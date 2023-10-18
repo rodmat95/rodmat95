@@ -47,10 +47,10 @@
     <h1 align="left">👨🏻‍💻 Tecnologías Utilizadas:</h1>
     <table border="1">
         <thead align="center">
-            <th colspan="2">📕 Desarrollo Frontend</th>
+            <th colspan="2">📕 Tecnologías Frontend</th>
         </thead>
         <caption algún="Center">
-            <th>💻 Tecnologías Frond</th>
+            <th>💻 Desarrollo Frond</th>
             <th>📚 Bibliotecas & Frameworks</th>
         </caption>
         <tbody align="center">
@@ -102,10 +102,10 @@
     </table>
     <table border="1">
         <thead align="center">
-            <th colspan="2">📖 Desarrollo Backend</th>
+            <th colspan="2">📖 Tecnologías Backend</th>
         </thead>
         <caption aling="Center">
-            <th>🖥️ Tecnologías Back</th>
+            <th>🖥️ Desarrollo Back</th>
             <th>📚 Bibliotecas & Frameworks</th>
         </caption>
         <tbody align="center">
