@@ -47,9 +47,12 @@
     <h1 align="left">👨🏻‍💻 Tecnologías Utilizadas:</h1>
     <table border="1">
         <thead align="center">
-            <th>💻 Desarrollo Frontend</th>
-            <th>📚 Bibliotecas & Frameworks</th>
+            <th colspan="2">💻 Desarrollo Frontend</th>
         </thead>
+        <caption algún="Center">
+            <th>📕 Tecnologías Frond</th>
+            <th>📚 Bibliotecas & Frameworks</th>
+        </caption>
         <tbody align="center">
             <td>
                 <img src="https://img.shields.io/badge/HTML-black.svg?style=flat&logo=html5"
@@ -80,10 +83,10 @@
                 -->
             </td>
         </tbody>
-        <thead align="center">
+        <caption align="center">
             <th>🗂️ Webs Asíncronas</th>
             <th>🧰 Plugins</th>
-        </thead>
+        </caption>
         <tbody align="center">
             <td>
                 <img src="https://img.shields.io/badge/Ajax-black.svg?style=flat&logo=ajax" alt="Ajax">
@@ -99,7 +102,7 @@
     </table>
     <table border="1">
         <thead align="center">
-            <th>🖥️ Desarrollo Backend</th>
+            <th>🖥️📖 Desarrollo Backend</th>
             <th>📚 Bibliotecas & Frameworks</th>
         </thead>
         <tbody align="center">
