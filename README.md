@@ -50,7 +50,7 @@
             <th colspan="2">📕 Tecnologías Frontend</th>
         </thead>
         <caption algún="Center">
-            <th>💻 Desarrollo Frond</th>
+            <th>💻 Desarrollo Front</th>
             <th>📚 Bibliotecas & Frameworks</th>
         </caption>
         <tbody align="center">
