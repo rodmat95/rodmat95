@@ -102,7 +102,7 @@
     </table>
     <table border="1">
         <thead align="center">
-            <th>📖 Desarrollo Backend</th>
+            <th colspan="2">📖 Desarrollo Backend</th>
         </thead>
         <caption aling="Center">
             <th>🖥️ Tecnologías Back</th>
