@@ -73,7 +73,7 @@
             <td>
                 <img src="https://img.shields.io/badge/Bootstrap-black.svg?style=flat&logo=bootstrap"
                     alt="Bootstrap">
-                <img src="https://img.shields.io/badge/Tailwind-CSS-black.svg?style=flat&logo=tailwindcss"
+                <img src="https://img.shields.io/badge/Tailwind%20CSS-black.svg?style=flat&logo=tailwindcss"
                      alt="Tailwind CSS">
                 <!--
                 <img src="https://img.shields.io/badge/jQuery-black.svg?style=flat&logo=jquery&logoColor=%230769AD"
