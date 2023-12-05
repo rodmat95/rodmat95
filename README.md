@@ -75,9 +75,9 @@
                     alt="Bootstrap">
                 <img src="https://img.shields.io/badge/Tailwind%20CSS-black.svg?style=flat&logo=tailwindcss"
                      alt="Tailwind CSS">
-                <!--
                 <img src="https://img.shields.io/badge/jQuery-black.svg?style=flat&logo=jquery&logoColor=%230769AD"
                     alt="jQuery">
+                <!--
                 <img src="https://img.shields.io/badge/React-black.svg?style=flat&logo=react"
                     alt="React">
                 <img src="https://img.shields.io/badge/PopperJS-black.svg?style=flat&logo=popper.js" 
