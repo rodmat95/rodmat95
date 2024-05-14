@@ -4,10 +4,7 @@
 </a>
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Rodmat95</h1>
-    <h3 align="center">Un desarrollador frontend que crea sitios web y aplicaciones. Me gusta
-        diseñar interfaces de usuario que sean atractivas, funcionales y accesibles. Me interesa aprender sobre las
-        últimas tendencias y herramientas del desarrollo web. Además de la programación, disfruto del mundo del
-        hardware, los deportes de riesgo y los videojuegos.</h3>
+    <h3 align="center">Un desarrollador Full Stack que disfruta de crear soluciones tecnológicas completas, desde el diseño de interfaces de usuario atractivas y funcionales hasta la implementación de servidores eficientes y el manejo de bases de datos. Estoy constantemente buscando aprender y aplicar las últimas tendencias y herramientas en el desarrollo web. Fuera del mundo del código, disfruto explorar nuevas tecnologías, practicar deportes al aire libre y sumergirme en el mundo de los videojuegos.</h3>
 </div>
 
 <div id="about" align="center">
